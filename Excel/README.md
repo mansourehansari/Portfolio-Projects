@@ -13,6 +13,7 @@
  
 ## نمای کلی
   ![dashboard](https://i.postimg.cc/Qtq2snxv/Screenshot-2024-11-01-085114.png)
+
   
 ## اجزای داشبورد
 
@@ -20,15 +21,16 @@
  
 با تعیین بازه های زمانی مختلف در این Time line میتوانیم اطلاعات مربوط به همان زمان را در داشبورد مشاهده و تحلیل کنیم.
 
-  ![timeline](https://i.postimg.cc/zvQ8ZPx8/Screenshot-2024-11-01-085416.png)
+  ![timeline](https://i.postimg.cc/j2TXkB8w/Screenshot-2024-11-01-085416.png)
+
+  
 
 - **Line Chart**:
 
 میزان فروش سالیانه و ماهانه بر اساس نوع قهوه را نمایش میدهد.
 
-  ![bar chart](https://i.postimg.cc/JnvjXKT0/Screenshot-2024-11-01-071624.png)
+  ![bar chart](https://i.postimg.cc/0jWqkGKf/Screenshot-2024-11-01-085532.png)
 
-  ![donut](https://i.postimg.cc/dtBLP48C/Screenshot-2024-11-01-071522.png)
 
   
 
@@ -36,7 +38,7 @@
 
 5 مشتری که بیشترین میزان خرید را داشته اند و مجموع میزان فروش در سه کشور را نمایش میدهد.
 
- ![treemap](https://i.postimg.cc/Cx14tvRP/Screenshot-2024-11-01-072753.png)
+ ![treemap](https://i.postimg.cc/T1rCQTfW/Screenshot-2024-11-01-085729.png)
 
  
 
@@ -44,7 +46,7 @@
 
 با استفاده از این قسمت میتوانیم نمودار هارا بر اساس رست قهوه ، سایز بسته بندی فروش و کشور مورد نظر فیلتر کنیم و نتایج را در سه نمودار دیگر مشاهده کنیم.
 
- ![diff](https://i.postimg.cc/fbTmk5n4/Screenshot-2024-11-01-072837.png)
+ ![diff](https://i.postimg.cc/wBXM6PqQ/Screenshot-2024-11-01-200341.png)
 
  
 
