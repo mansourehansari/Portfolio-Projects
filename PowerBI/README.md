@@ -14,6 +14,6 @@
 
 - **Stacked bar chart**:میانگین درآمد را بر اساس مشاغل مختلف و جنسیت نشان میدهد.
 
-  ![bar chart](https://i.postimg.cc/LX69mp2F/Screenshot-2024-11-01-065712.png)
+  ![bar chart](https://i.postimg.cc/JnvjXKT0/Screenshot-2024-11-01-071624.png)
 
   ![donut](https://i.postimg.cc/43KCPxfd/Screenshot-2024-11-01-071148.png)
