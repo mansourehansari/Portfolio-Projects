@@ -11,3 +11,7 @@
 - **Stacked column chart**:نشان میدهد هر زبان برنامه نویسی بین مشاغل مختلف چقدر محبوب است و در کل پر استفاده ترین زبان برنامه نویسی کدام است.
 
 ![نمودار](https://postimg.cc/4mZPjwtw)
+
+- **Stacked bar chart**:میانگین درآمد را بر اساس مشاغل مختلف نشان میدهد.
+
+  ![bar chart](https://postimg.cc/HJRDtFr6)
